@@ -13,21 +13,27 @@ The Inventory Management System is a Java-based application designed for managin
 
 To use the Inventory Management System, follow these steps:
 
-- Clone the repository:
+- Fork and clone the [repository](https://github.com/prajeshElEvEn/stockpro):
 
+```bash
+git clone <repo_url>
 ```
-git clone https://github.com/your-username/inventory-management.git
+
+- Navigate to the project directory:
+
+```bash
+cd stockpro
 ```
 
 - Compile the Java files:
 
-```
+```bash
 javac InventoryManagementSystem.java
 ```
 
 - Run the application:
 
-```
+```bash
 java InventoryManagementSystem
 ```
 
